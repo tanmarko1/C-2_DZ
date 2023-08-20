@@ -1,1 +1,4 @@
-
+bin
+obj
+.gitignore
+Example10.csproj
